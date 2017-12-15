@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Les gilles veulent des poils, les garçons s'en débarrassent"
+title: "Les filles veulent des poils, les garçons s'en débarrassent"
 date: 2017-12-16 08:38:33 +0100
 categories: Santé Discussion
 ---

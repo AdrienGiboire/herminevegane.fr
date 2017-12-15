@@ -14,18 +14,41 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "L'Hermine Végane"
-email: hermine.vegane@adrien.sent.com
+email: hermine.vegane@sent.com
 description: >- # this means to ignore newlines until "baseurl:"
   L'Hermine Végane essaie de partager en simplicité des informations trop souvent tues
   sur des sujets tels que la santé et l'alimentation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: herminevegane
-github_username:  adriengiboire
+github_username: truc
+socials:
+  twitter:
+    link: https://twitter.com/hermine_vegane
+    username: hermine_vegane
+    icon: twitter
+  facebook:
+    link: https://facebook.com/hermine.vegane
+    username: hermine.vegane
+    icon: facebook
+  soundcloud:
+    link: https://soundcloud.com/hermine_vegane
+    username: hermine_vegane
+    icon: soundcloud
+  instagram:
+    link: https://instagram.com/hermine.vegane
+    username: hermine.vegane
+    icon: instagram
+  youtube:
+    link: https://www.youtube.com/channel/UC08xQQqrUpDJFipKmZxwT-g
+    username: "L'Hermine Végane"
+    icon: youtube
+  github:
+    link: https://github.com/adriengiboire/herminevegane.fr
+    username: GitHub
+    icon: github
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
 

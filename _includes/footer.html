@@ -1,0 +1,24 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+
+    <ul class="social-media-list">
+      {% for social in site.socials %}
+        {% assign data = social[1] %}
+        <li>
+          <a href="{{ data.link }}" target="_blank">
+            <i class="fab fa-{{ data.icon }}"></i>
+            <span class="username">{{ data['username'] }}</span>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p class='text-muted'>{{ site.description | escape }}</p>
+
+  </div>
+
+</footer>
