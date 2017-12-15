@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Les gilles veulent des poils, les garçons s'en débarrassent"
+date: 2017-12-16 08:38:33 +0100
+categories: Santé Discussion
 ---
 
 C'est un billet un poil ironique concernant la nouvelle situation hype autour des poils.
@@ -9,7 +11,7 @@ Depuis un moment maintenant, les femmes se *rebellent* contre les standards de l
 
 Ce que je blame, c'est qu'elles ne se battent pas pour la bonne raison.
 
-Quand tu combats, tu devrais choisir la bonne raison. Dans ce cas, les standards ne sont pas une bonne raison AMHA. Je serai d'accord avec les filles si elles mettaient surtout en avant les problèmes de santé. *Ne te méprends pas, heureusement certaines le font mais je n'ai pas l'impression qu'elles soient une majorité, pour l'instant.* C'est mauvais pour la santé, les poils jouent un rôle dans le contrôle de la température corporelle, etc. Elles ont (plus) *raison*.
+Quand tu combats, tu devrais choisir la bonne raison. Dans ce cas, les standards ne sont pas une bonne raison AMHA. Je serai d'accord avec les filles si elles mettaient surtout en avant les problèmes de santé. *Ne te méprends pas, heureusement certaines le font mais je n'ai pas l'impression qu'elles soient une majorité, pour l'instant.* C'est mauvais pour la santé, les poils jouent un rôle dans le contrôle de la température corporelle, etc. Elles auraient (plus) *raison*.
 
 Certainement, c'est perturbant au début, voir une fille avec des poils sous les aisselles. Mais de la même façon que tu as l'habitude de voir des filles sans, tu t'habitueras à voir des filles avec.
 
