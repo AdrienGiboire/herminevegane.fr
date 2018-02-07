@@ -318,15 +318,15 @@ facteur.
 [**Tuer les animaux sans raison est mal mais si tu as une raison, c'est normal**](#a30)
 
 <a name="a18" id="a18"></a>
-## 18 It's been happening for hundreds of years
-The amount of time that something has been happening is not at all linked with
-how harmful it is to the victims. Indeed, the fact that it has been going on so
-long just underlines how harmful it has been, because the death toll is so high
-it will never be calculated, and has been entirely unnecessary since we were
-able to harvest crops successfully. With this attitude nothing would ever
-change in society, and things that used to happen for hundreds of years like
-slavery and so on would continue today just because that's what has been
-happening.
+## 18 Ça se fait depuis des centaines d'années
+La durée depuis laquelle quelque chose se pratique n'est pas du tout lié à la
+mesure à laquelle c'est nuisible pour les victimes. En effet, le fait que ça se
+fasse depuis si longtemps souligne à quel point c'est devenu dangereux parce le
+nombre de morts est si élevé qu'il ne pourra jamais être calculé et que c'est
+inutile depuis qu'on est capable de cultiver. Avec cette attitude rien ne
+changerait jamais dans la société et les choses qui se pratiquaient pendant des
+centaines d'années tel que l'esclavage continueraient aujourd'hui parce que
+c'est ce qui se faisait.
 
 [**Tuer les animaux sans raison est mal mais si tu as une raison, c'est normal**](#a30)
 
@@ -587,7 +587,7 @@ jamais et si ça arrive, ça se ferait graduellement sur plusieurs années) alor
 les animaux ne seraient plus élevés. Donc leur population ne serait pas un
 problème.
 
-<a name="a35" id="a35">35</a>
+<a name="a35" id="a35"></a>
 ## 35 Si tout le monde devenait végane, le bétail disparaitrait
 Les animaux de bétail ont été sélectivement élevés par les humains pour nous
 profiter. Ils souffrent de nombreux problèmes de santé parce qu'ils sont élevés
@@ -652,9 +652,9 @@ Tu peux satisfaire tous tes besoins dans un régime végétal, il n'y a rien à
 craindre. En effet, beaucoup d'athlètes suivent un régime végétal précisément
 pour les bénéfices.
 
-[Regarde Julieanna Hever, une diététitienne végane](http://plantbaseddietitian.com/)
+[**Regarde Julieanna Hever, une diététitienne végane**](http://plantbaseddietitian.com/)
 
-[Regarde Dr Greger, a docteur végane](http://www.veganmd.org/)
+[**Regarde Dr Greger, a docteur végane**](http://www.veganmd.org/)
 
 <a name="a41" id="a41"></a>
 ## 41 Protéïne
