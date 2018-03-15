@@ -74,6 +74,7 @@ Traduction et adaptation de [_Guide to justifications for harming and exploiting
 * [63 Okay mais les ateliers de misère et la main d'oeuvre esclave](#a63)
 * [64 Les illustrations de Vegan Sidekick sont imprécises / offensives](#inaccurate)
 * [65 Okay mais il y a d'autres moyens de promouvoir le véganisme, ça, ça ne marche pas](#ineffective)
+* [66 Vous n'avez pas besoin de viande mais ce qui la remplace vous lui donnerez l'aspect](#a66)
 
 ---
 
@@ -1036,7 +1037,7 @@ le travail forcé est illégal. Cherche des compagnies qui travaillent avec
 d'autres pays pour aider ceux qui sont exploités en leur offrant un travail
 juste.
 
-<a name="inaccurate" id="a65"></a>
+<a name="inaccurate" id="inaccurate"></a>
 ## 64 Les commis de Vegan Sidekick sont imprécis / offensifs
 Les comics ne sont pas une représentation de chaque personne qui n'est pas
 végane. Chaque comic traite d'un sujet particulier sur l'exploitation animale
@@ -1057,7 +1058,7 @@ l'absurdité de défendre l'exploitation animale.
 
 [**Oui mais ça ne nuit pas aux animaux de les tuer**](#a1)
 
-<a name="ineffective" id="a66"></a>
+<a name="ineffective" id="ineffective"></a>
 ## 65 Oui mais il y a d'autres façons de promouvoir le véganisme. Ça, c'est inefficace
 Les comics Vegan Sidekick existent pour faire rire les gens et leurs faire
 reconsidérer leur position. Certaines personnes ne trouveront pas ça drôle,
@@ -1071,3 +1072,11 @@ accessibles.
 Mais plus important, si tu n'es pas végane et que tu essaies de me dire comment
 faire pour diffuser au mieux le message alors dis moi ce que je dois te dire et
 je le dirais, et après tu deviendras végane, oui ? :)
+
+<a name="a66" id="a66"></a>
+## 66 Vous n'avez pas besoin de viande mais ce qui la remplace vous lui donnerez l'aspect
+Les substituts du commerce ont l’apparence et parfois le nom, ou presque, de leurs alternatives non-véganes uniquement à des fins marketing.
+
+Et surtout, tous les véganes ne le sont pas parce qu’ils n’aiment pas la viande. En règle générale, on aime les produits d’origine animale mais on refuse d’en consommer par principe éthique, et pas par préférence ou par goût. Donc pour les véganes qui aiment la viande et bien je ne vais pas les blâmer de se mettre à consommer des substituts qui ressemblent à l’original, parce que le cerveau est un farceur, et qu’il peut trouver meilleur un substitut qui ressemble à un steak haché, plutôt que si c’est présenté sous forme de boulettes ou de cubes. Si ça aide certains à faire leur transition vers une consommation respectueuse des animaux je dis : tant mieux !
+
+__Merci Adèle pour cette contribution__
