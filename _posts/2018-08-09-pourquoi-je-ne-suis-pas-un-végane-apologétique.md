@@ -8,7 +8,7 @@ Apologétique signifie "_qui contient une apologie_". En gros, je vais expliquer
 pourquoi je ne m'excuse pas d'être végane mais surtout pourquoi je ne m'excuse
 pas de mettre en avant mes principes.
 
-<br>
+![Je ne m'excuserai pas d'être végane]({{ "/assets/images/articles/vegane-apologetique.jpg" | absolute_url }}){: .center-image }
 
 ---
 
