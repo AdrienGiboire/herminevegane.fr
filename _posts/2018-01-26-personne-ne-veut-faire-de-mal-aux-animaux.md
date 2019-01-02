@@ -31,7 +31,7 @@ Tu vois la vache.
 Tu ne connais pas la vache.  
 Je me dis que tu n'aimes pas la vache.
 
-Pourtant, malgré que tu n'aimes pas la vache et que tu n'as aucune connexion avec cette vache, tu ne veux pas pour autant qu'il lui arrive du mal, si ? Parce que ça serait un peu extrême. Donc, naturellement, tu laisses la vache tranuille et tu veux pas aller monter une affaire qui résulterait sur la mort de cette vache.
+Pourtant, malgré que tu n'aimes pas la vache et que tu n'as aucune connexion avec cette vache, tu ne veux pas pour autant qu'il lui arrive du mal, si ? Parce que ça serait un peu extrême. Donc, naturellement, tu laisses la vache tranquille et tu veux pas aller monter une affaire qui résulterait sur la mort de cette vache.
 
 La plupart des gens ne veut aucun mal aux animaux mais leur compassion ne s'aligne pas avec leur action. Voyons si tu en es…
 
