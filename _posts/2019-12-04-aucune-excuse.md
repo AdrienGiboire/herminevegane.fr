@@ -2,6 +2,7 @@
 layout: post
 title: Aucune excuse
 date: 2019-12-04 14:15 +0100
+categories: Véganisme
 ---
 
 User des animaux, c'est abuser des animaux.

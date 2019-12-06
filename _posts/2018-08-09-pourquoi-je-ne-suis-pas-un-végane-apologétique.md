@@ -2,6 +2,7 @@
 layout: post
 title: Pourquoi je NE suis PAS un végane apologétique
 date: 2018-08-09 14:06 +0200
+categories: Véganisme
 ---
 
 Apologétique signifie : "_qui contient une apologie_". En gros, je vais expliquer

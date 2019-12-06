@@ -2,6 +2,7 @@
 layout: post
 title: La viande de veau
 date: 2019-12-06 13:50 +0100
+categories: Véganisme
 ---
 
 La viande de veaux vient des veaux, à l'inverse du boeuf qui vient de bétail adulte. La viande de veaux peut être produite à partir d'un veau de n'importe quel sexe et n'importe quelle race. La plupart du temps, les veaux sont issus de l'industrie laitière.
