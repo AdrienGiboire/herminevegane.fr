@@ -5,6 +5,9 @@ date: 2019-12-06 13:50 +0100
 categories: Véganisme
 ---
 
+![Photo d'une vache caliné par un humain]({{ "/assets/images/articles/la-viande-de-veau.jpg" | absolute_url }})
+_Photo: [Challenge 22](https://www.facebook.com/ChallengeTwentyTwo/)_
+
 La viande de veaux vient des veaux, à l'inverse du boeuf qui vient de bétail adulte. La viande de veaux peut être produite à partir d'un veau de n'importe quel sexe et n'importe quelle race. La plupart du temps, les veaux sont issus de l'industrie laitière.
 
 Tous les veaux nés dans une exploitation laitière sont séparés de leur mère le jour de leur naissance et se voit refuser son lait. Alors que les femelles continuent d'être dans l'industrie laitière, les mâles sont envoyés à l'industrie de la viande.
