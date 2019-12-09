@@ -7,7 +7,7 @@ categories: Veganisme
 
 Vendredi dernier s'est terminé le Challenge 22 auquel je participais en tant que mentor.
 
-Qu'est-ce que Challenge 22 ? https://challenge22.com/
+Qu'est-ce que Challenge 22 ? [https://challenge22.com/](https://challenge22.com/)
 
 ![Logo du Challenge 22]({{ "/assets/images/articles/challenge-22-logo.png" | absolute_url }})
 
@@ -23,7 +23,7 @@ On n'a pas eut de mauvais retours. La plupart des gens sont ravis de l'accompagn
 
 Pour les questions spécifiques liées à l'alimentation, on est soutenu par un groupe de diététiciens. Ainsi les gens sont plus en confiances quand aux réponses et nous sommes assurés que les réponses sont solides quoiqu'il en soit.
 
-Il existe des initiatives similaires en français. Je pense notamment au Veggie Challenge https://vegan-pratique.fr/veggie-challenge/
+Il existe des initiatives similaires en français. Je pense notamment au [Veggie Challenge](https://vegan-pratique.fr/veggie-challenge/)
 
 Je ne peux pas garantir la qualité de la prestation parce que je ne me suis pas impliqué dans celle-ci. Si vous avez des retours, ça m'intéresse. Si vous connaissez d'autres initiatives semblables, ça m'intéresse aussi :)
 
