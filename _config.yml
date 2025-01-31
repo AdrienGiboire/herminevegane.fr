@@ -17,34 +17,26 @@ title: "L'Hermine Végane"
 email: hermine.vegane@sent.com
 description: >- # this means to ignore newlines until "baseurl:"
   L'Hermine Végane essaie de partager en simplicité des informations trop souvent tues
-  sur des sujets tels que la santé et l'alimentation.
+  sur des sujets tels que la santé, l'alimentation et surtout le véganisme.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://veganisme.adriengiboire.com" # the base hostname & protocol for your site, e.g. http://example.com
 socials:
   twitter:
-    link: https://twitter.com/hermine_vegane
-    username: hermine_vegane
+    link: https://x.com/adriengiboire
+    username: adriengiboire
     icon: twitter
   facebook:
-    link: https://facebook.com/hermine.vegane
-    username: hermine.vegane
+    link: https://facebook.com/adriengiboire
+    username: adriengiboire
     icon: facebook
-  soundcloud:
-    link: https://soundcloud.com/hermine_vegane
-    username: hermine_vegane
-    icon: soundcloud
   instagram:
-    link: https://instagram.com/hermine.vegane
-    username: hermine.vegane
+    link: https://instagram.com/adriengiboire
+    username: adriengiboire
     icon: instagram
   youtube:
-    link: https://www.youtube.com/channel/UC08xQQqrUpDJFipKmZxwT-g
-    username: "L'Hermine Végane"
+    link: https://www.youtube.com/adriengiboire
+    username: "Adrien Giboire - La vie d'un végane"
     icon: youtube
-  github:
-    link: https://github.com/adriengiboire/herminevegane.fr
-    username: GitHub
-    icon: github
 
 # Build settings
 markdown: kramdown
