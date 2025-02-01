@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lela polyculture-élevage face au véganisme
+title: La polyculture-élevage face au véganisme
 date: 2025-02-01 13:53 +0100
 categories: Véganisme
 ---
