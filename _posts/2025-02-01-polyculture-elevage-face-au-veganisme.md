@@ -13,7 +13,7 @@ Les systèmes traditionnels de polyculture-élevage ont permis une **autonomie p
 
 Cependant, aujourd’hui, **l’élevage industriel dominant** (80 % des animaux exploités) est déconnecté de ces cycles vertueux : les élevages concentrationnaires produisent des quantités massives de lisier polluant, et les cultures (soja, maïs) destinées à les nourrir sont dépendantes des pesticides et engrais synthétiques.
 
-## Expliquer les alternatives sans exploitation animale
+## Les alternatives sans exploitation animale
 
 La transition vers une agriculture 100 % végétale ne signifie pas nécessairement remplacer le fumier par des produits chimiques. Des solutions existent :  
 
@@ -21,7 +21,7 @@ La transition vers une agriculture 100 % végétale ne signifie pas nécessairem
 - **Agroécologie et permaculture** : Ces modèles optimisent la biodiversité pour régénérer les sols sans intrants animaux (ex : associations de cultures, rotations, couverts végétaux).  
 - **Réutilisation des nutriments** : Recycler les déchets humains via des systèmes hygiénisés (toilettes sèches, méthanisation), comme le fait déjà la Suède.  
 
-Quant aux prairies non cultivables, elles pourraient être **restaurées en écosystèmes sauvages** (forêts, zones humides), captant bien plus de CO₂ que les pâturages, ou utilisées pour des cultures pérennes (noix, fruits, agroforesterie). »
+Quant aux prairies non cultivables, elles pourraient être **restaurées en écosystèmes sauvages** (forêts, zones humides), captant bien plus de CO₂ que les pâturages, ou utilisées pour des cultures pérennes (noix, fruits, agroforesterie).
 
 ## Souligner les limites de l’élevage "durable"
 
@@ -29,7 +29,25 @@ Même dans les systèmes pastoraux, l’élevage pose des problèmes :
 
 - **Éthique** : Exploiter et tuer des animaux sensibles reste incompatible avec le véganisme, qui défend leur droit à ne pas être considérés comme des ressources.  
 - **Efficacité** : Nourrir des animaux avec des cultures (même sur des prairies) est **thermodynamiquement inefficace** : 70 % des terres agricoles servent à produire de la viande, qui ne fournit que 18 % des calories mondiales (source : FAO).  
-- **Gestion des sols** : Le surpâturage épuise souvent les sols et accentue la désertification (ex. : Sahel), alors que des méthodes végétales régénèrent les terres. »
+- **Gestion des sols** : Le surpâturage épuise souvent les sols et accentue la désertification (ex. : Sahel), alors que des méthodes végétales régénèrent les terres.
+
+###  Cas des "prairies non cultivables"
+
+Argument souvent avancé :
+
+Certaines terres (zones arides, montagnes) ne sont pas adaptées aux cultures végétales, mais peuvent être pâturées par des ruminants (vaches, moutons).
+
+Échelle mondiale :
+
+- Seulement 13 % des terres agricoles sont des prairies permanentes non convertibles en cultures (FAO, 2023).
+- La majorité des pâturages actuels pourraient être reboisés ou convertis en cultures vivrières si la demande de viande diminuait.
+
+Alternatives :
+
+- Ces prairies pourraient être utilisées pour :
+    - Agroforesterie (noix, fruits, plantes médicinales).
+    -  Restauration écologique (captation de CO₂, habitats pour la biodiversité).
+- Le fumier n’est pas indispensable : des engrais verts (trèfle, luzerne) ou du compost végétal peuvent remplacer les nutriments.
 
 ## Proposer une transition réaliste
  
@@ -37,7 +55,7 @@ L’objectif n’est pas d’éliminer brutalement tous les élevages, mais de :
 
 - **Réduire la demande** en viande pour limiter l’élevage industriel, responsable de la majorité des souffrances animales et de la pollution.  
 - **Repenser les modèles agricoles** : Dans les régions où l’élevage pastoral est historiquement ancré, une transition progressive vers des systèmes mixtes (moins d’animaux, plus de cultures adaptées) pourrait combiner autonomie et respect du vivant.  
-- **Valoriser les innovations** : Des fermes expérimentales (comme la Ferme du Bec Hellouin en France) montrent qu’une agriculture végétale intensive en biodiversité peut être productive sans animaux ni chimie. »
+- **Valoriser les innovations** : Des fermes expérimentales (comme la Ferme du Bec Hellouin en France) montrent qu’une agriculture végétale intensive en biodiversité peut être productive sans animaux ni chimie.
 
 ## Bref
 
