@@ -7,7 +7,7 @@ categories: Véganisme
 
 ![Photo d'un paysage montrant des vaches et des champs de diverses cultures]({{ "/assets/images/articles/polyculture-elevage.jpg" | absolute_url }})
 
-## Reconnaître les avantages historiques de la polyculture-élevage
+## Les avantages historiques de la polyculture-élevage
 
 Les systèmes traditionnels de polyculture-élevage ont permis une **autonomie partielle** en recyclant les déchets animaux (fumier) et en valorisant des terres peu propices aux cultures. Cela a réduit la dépendance aux engrais chimiques dans certains contextes.  
 
@@ -23,7 +23,7 @@ La transition vers une agriculture 100 % végétale ne signifie pas nécessairem
 
 Quant aux prairies non cultivables, elles pourraient être **restaurées en écosystèmes sauvages** (forêts, zones humides), captant bien plus de CO₂ que les pâturages, ou utilisées pour des cultures pérennes (noix, fruits, agroforesterie).
 
-## Souligner les limites de l’élevage "durable"
+## Les limites de l’élevage "durable"
 
 Même dans les systèmes pastoraux, l’élevage pose des problèmes :  
 
@@ -49,7 +49,7 @@ Alternatives :
     -  Restauration écologique (captation de CO₂, habitats pour la biodiversité).
 - Le fumier n’est pas indispensable : des engrais verts (trèfle, luzerne) ou du compost végétal peuvent remplacer les nutriments.
 
-## Proposer une transition réaliste
+## Une transition réaliste
  
 L’objectif n’est pas d’éliminer brutalement tous les élevages, mais de :  
 
