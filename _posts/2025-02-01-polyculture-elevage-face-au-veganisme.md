@@ -5,6 +5,8 @@ date: 2025-02-01 13:53 +0100
 categories: Véganisme
 ---
 
+![Photo d'un paysage montrant des vaches et des champs de diverses cultures]({{ "/assets/images/articles/polyculture-elevage.jpg" | absolute_url }})
+
 ## Reconnaître les avantages historiques de la polyculture-élevage
 
 Les systèmes traditionnels de polyculture-élevage ont permis une **autonomie partielle** en recyclant les déchets animaux (fumier) et en valorisant des terres peu propices aux cultures. Cela a réduit la dépendance aux engrais chimiques dans certains contextes.  
