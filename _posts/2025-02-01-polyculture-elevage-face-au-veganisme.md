@@ -37,10 +37,12 @@ L’objectif n’est pas d’éliminer brutalement tous les élevages, mais de :
 
 - **Réduire la demande** en viande pour limiter l’élevage industriel, responsable de la majorité des souffrances animales et de la pollution.  
 - **Repenser les modèles agricoles** : Dans les régions où l’élevage pastoral est historiquement ancré, une transition progressive vers des systèmes mixtes (moins d’animaux, plus de cultures adaptées) pourrait combiner autonomie et respect du vivant.  
-- **Valoriser les innovations** : Des fermes expérimentales (comme la Ferme du Bec Hellouin en France) montrent qu’une agriculture végétale intensive en biodiversité peut être productive sans animaux ni chimie.
+- **Valoriser les innovations** : Des fermes expérimentales (comme la Ferme du Bec Hellouin<sup>1</sup> en France) montrent qu’une agriculture végétale intensive en biodiversité peut être productive sans animaux ni chimie.
 
 ## Bref
 
 Le véganisme ne nie pas les défis techniques de l’agriculture sans animaux, mais il invite à repenser un système alimentaire aujourd’hui dysfonctionnel. L’enjeu est de conjuguer **écologie**, **justice sociale** et **respect des animaux**, en s’appuyant sur la science et l’innovation.
 
 Merci de m'avoir lu ! Bonne journée 🌱
+
+<sup>1</sup> : Il m'a été rappelé à juste titre que le Bec Hellouin intègre aujourd'hui les animaux dans leur activité. De deux choses, l'une étant que le propos d'origine en reste inchangé à savoir qu'ils ne dépendent pas des intrants organiques d'origine animale pour cultiver. L'autre étant que s'ils peuvent se permettre d'intégrer des petits élevages (ce que je ne cautionne pas, évidemment), c'est justement parce qu'ils parviennent à gagner beaucoup d'espace en suivant leur méthode de culture. Vous pouvez retrouver un aperçu de leur méthode dans [ce document](https://www.fermedubec.com/wp-content/uploads/sites/8/2017/11/La-methode-de-la-Ferme-du-Bec-Hellouin.pdf).
