@@ -21,7 +21,7 @@ La transition vers une agriculture 100 % végétale ne signifie pas nécessairem
 - **Agroécologie et permaculture** : Ces modèles optimisent la biodiversité pour régénérer les sols sans intrants animaux (ex : associations de cultures, rotations, couverts végétaux).  
 - **Réutilisation des nutriments** : Recycler les déchets humains via des systèmes hygiénisés (toilettes sèches, méthanisation), comme le fait déjà la Suède.  
 
-Quant aux prairies non cultivables, elles pourraient être **restaurées en écosystèmes sauvages** (forêts, zones humides), captant bien plus de CO₂ que les pâturages, ou utilisées pour des cultures pérennes (noix, fruits, agroforesterie). »
+Quant aux prairies non cultivables, elles pourraient être **restaurées en écosystèmes sauvages** (forêts, zones humides), captant bien plus de CO₂ que les pâturages, ou utilisées pour des cultures pérennes (noix, fruits, agroforesterie).
 
 ## Souligner les limites de l’élevage "durable"
 
@@ -29,7 +29,7 @@ Même dans les systèmes pastoraux, l’élevage pose des problèmes :
 
 - **Éthique** : Exploiter et tuer des animaux sensibles reste incompatible avec le véganisme, qui défend leur droit à ne pas être considérés comme des ressources.  
 - **Efficacité** : Nourrir des animaux avec des cultures (même sur des prairies) est **thermodynamiquement inefficace** : 70 % des terres agricoles servent à produire de la viande, qui ne fournit que 18 % des calories mondiales (source : FAO).  
-- **Gestion des sols** : Le surpâturage épuise souvent les sols et accentue la désertification (ex. : Sahel), alors que des méthodes végétales régénèrent les terres. »
+- **Gestion des sols** : Le surpâturage épuise souvent les sols et accentue la désertification (ex. : Sahel), alors que des méthodes végétales régénèrent les terres.
 
 ## Proposer une transition réaliste
  
@@ -37,7 +37,7 @@ L’objectif n’est pas d’éliminer brutalement tous les élevages, mais de :
 
 - **Réduire la demande** en viande pour limiter l’élevage industriel, responsable de la majorité des souffrances animales et de la pollution.  
 - **Repenser les modèles agricoles** : Dans les régions où l’élevage pastoral est historiquement ancré, une transition progressive vers des systèmes mixtes (moins d’animaux, plus de cultures adaptées) pourrait combiner autonomie et respect du vivant.  
-- **Valoriser les innovations** : Des fermes expérimentales (comme la Ferme du Bec Hellouin en France) montrent qu’une agriculture végétale intensive en biodiversité peut être productive sans animaux ni chimie. »
+- **Valoriser les innovations** : Des fermes expérimentales (comme la Ferme du Bec Hellouin en France) montrent qu’une agriculture végétale intensive en biodiversité peut être productive sans animaux ni chimie.
 
 ## Bref
 
