@@ -4,6 +4,8 @@ title: Est-ce que l'humain est un prédateur ?
 date: 2025-02-05 23:04 +0100
 ---
 
+![Image générée par IA montrant un cerf mort et des chasseurs]({{ "/assets/images/articles/predateur.jpg" | absolute_url }})
+
 L'humain peut être considéré comme un superprédateur, mais d'une manière unique et différente des autres prédateurs du règne animal.
 
 ## 1. Définition d’un prédateur
