@@ -34,12 +34,12 @@ Pour approfondir cette réflexion, vous pouvez consulter cette vidéo :
 
 Sources :
 
-https://elevagesolemio.com/caval-ethique/
+[https://elevagesolemio.com/caval-ethique/](https://elevagesolemio.com/caval-ethique/)
 
-https://blogs.mediapart.fr/elisabeth-pampouille/blog/280821/lequitation-est-elle-vegane-0
+[https://blogs.mediapart.fr/elisabeth-pampouille/blog/280821/lequitation-est-elle-vegane-0](https://blogs.mediapart.fr/elisabeth-pampouille/blog/280821/lequitation-est-elle-vegane-0)
 
-https://www.fondation-droit-animal.org/106-le-bien-etre-des-chevaux-en-centres-equestres/
+[https://www.fondation-droit-animal.org/106-le-bien-etre-des-chevaux-en-centres-equestres/](https://www.fondation-droit-animal.org/106-le-bien-etre-des-chevaux-en-centres-equestres/)
 
-https://equipedia.ifce.fr/sante-et-bien-etre-animal/bien-etre-et-comportement-animal/generalites/le-bien-etre-du-cheval
+[https://equipedia.ifce.fr/sante-et-bien-etre-animal/bien-etre-et-comportement-animal/generalites/le-bien-etre-du-cheval](https://equipedia.ifce.fr/sante-et-bien-etre-animal/bien-etre-et-comportement-animal/generalites/le-bien-etre-du-cheval)
 
-https://www.alegriacomplicite.com/inspiration/vers-une-equitation-plus-respectueuse-adopter-une-approche-ethique-avec-son-cheval/
+[https://www.alegriacomplicite.com/inspiration/vers-une-equitation-plus-respectueuse-adopter-une-approche-ethique-avec-son-cheval/](https://www.alegriacomplicite.com/inspiration/vers-une-equitation-plus-respectueuse-adopter-une-approche-ethique-avec-son-cheval/)

@@ -17,14 +17,8 @@ considérer que du lobbying, y en a partout. C'est pas compliqué.
 
 Et on est des éponges. On est faible.
 
----
-<br>
-
 Aujourd'hui, on va évoquer le lavage de cerveau dont vous
 êtes la victime et à commencer par éclaircir le cas du soja.
-
----
-<br>
 
 Selon le Monde, les premiers diffuseurs de fausses informations sont souvent des
 pages Facebook douteuses. C'est triste. Finalement, les lobbies n'ont plus rien à faire. Une publication
@@ -37,9 +31,7 @@ largement révélée. [Cette une information qui est partie d'un
 canular.](https://www.snopes.com/media/notnews/humanmeat.asp)
 
 Vous vous souvenez du pompier blessé à l'œil par une racaille qui vit dans les
-alentours de l'intervention ? [C'était un tir de policier et ce n'était pas du
-tout au même
-endroit.](http://www.lemonde.fr/les-decodeurs/article/2017/02/28/l-intox-du-pompier-a-l-il-creve-par-la-racaille_5086948_4355770.html)
+alentours de l'intervention ? [C'était un tir de policier et ce n'était pas du tout au même endroit.](http://www.lemonde.fr/les-decodeurs/article/2017/02/28/l-intox-du-pompier-a-l-il-creve-par-la-racaille_5086948_4355770.html)
 
 Pour rester dans le thème de la chaîne, je vais rebondir sur le sujet de
 l'alimentation.
