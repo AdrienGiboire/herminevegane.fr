@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Le soja pour devenir une femme
+date: 2025-02-08 21:18 +0000
 ---
+
+![Photo d'un homme marionnette]({{ "/assets/images/articles/lobbying.jpg" | absolute_url }})
 
 Le lobbying est une activité aussi connue que méconnue. On sait à quoi ça sert
 mais on ne sait pas bien comment ça se passe et quelles en sont les réelles
@@ -9,7 +12,7 @@ conséquences. Même si on peut se faire une vague idée.
 
 Il y a plein de sujets concernés que ce soit dans l'agro-alimentaire, la
 pharmaceutique, les énergies, … Tout le monde a un intérêt quelque part et
-certains ont les moyens d'obliger à satisfaire leurs envies. Donc tu peux
+certains ont les moyens d'obliger à satisfaire leurs envies. Donc vous povuez
 considérer que du lobbying, y en a partout. C'est pas compliqué.
 
 Et on est des éponges. On est faible.
@@ -17,16 +20,14 @@ Et on est des éponges. On est faible.
 ---
 <br>
 
-Salut ! C'est Adrien. Et aujourd'hui, on va évoquer le lavage de cerveau dont tu
-es la victime et commencer par éclaircir le cas du soja.
+Aujourd'hui, on va évoquer le lavage de cerveau dont vous
+êtes la victime et à commencer par éclaircir le cas du soja.
 
 ---
 <br>
 
 Selon le Monde, les premiers diffuseurs de fausses informations sont souvent des
-pages Facebook douteuses. DES PAGES FACEBOOK ! Ce sont certes des diffuseurs
-mais pour diffuser à foison comme ils font, c'est qu'ils ont leur audience.
-C'est triste. Finalement, les lobbies n'ont plus rien à faire. Une publication
+pages Facebook douteuses. C'est triste. Finalement, les lobbies n'ont plus rien à faire. Une publication
 au titre accrocheur et il suffit d'un clique pour que n'importe qui contribue à
 diffuser le message. Même pas besoin de lire la publication et encore moins le
 lien sur lequel elle débouche.
@@ -53,7 +54,7 @@ trouve principalement dans le soja, sont la génistéine et la daidzéine. Les
 isoflavones vont se fixer sur les récepteurs des œstrogènes et vont soit combler
 les déficits, soit compenser les excès hormonaux.
 
-Ils existent bon nombre d'études attestant de l'innocuité chez l'homme comme
+Il existe bon nombre d'études attestant de l'innocuité chez l'homme comme
 l'AHA (American Heart Association) le 17 janvier 2006 et l'AHRQ (Agency for
 Healthcare Research and Quality, l'agence américaine pour la recherche médicale) dans un rapport datant d'août 2005.
 
@@ -72,7 +73,7 @@ qualité. À noter que le liquide séminal est cancérigène, et augmente notamm
 le risque de cancer de l'utérus, une baisse de la quantité de sperme n'est donc
 pas nécessairement une mauvaise nouvelle pour les femmes…
 
-Bref, Le soja fait présentement l'objet de plusieurs controverses. Cela est vrai
+Bref, Ll soja fait présentement l'objet de plusieurs controverses. Cela est vrai
 pour les maladies cardiovasculaires, mais également pour les cancers : certaines
 études l'accusent d’augmenter le risque de cancer du sein, quand d’autres
 affirment au contraire qu'il protège contre les cancers hormono-dépendants. 
