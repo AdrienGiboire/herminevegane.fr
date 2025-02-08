@@ -11,10 +11,6 @@ pas de mettre en avant mes principes.
 
 ![Je ne m'excuserai pas d'être végane]({{ "/assets/images/articles/vegane-apologetique.jpg" | absolute_url }}){: .center-image }
 
----
-
-<br>
-
 Cela fait 4 ans que je suis végane, après avoir été végétarien pendant 6 mois.
 Le véganisme commençait à devenir quelque chose de plus connu par le grand
 public, bien que ça n'ait déjà rien à voir avec ce que les gens en pensent
