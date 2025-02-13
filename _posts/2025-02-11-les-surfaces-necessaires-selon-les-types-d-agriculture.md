@@ -4,7 +4,7 @@ title: Les surfaces nécessaires selon les types d'agriculture
 date: 2025-02-11 21:41 +0000
 ---
 
-![Photo aérienne de champs]({{ "/assets/surface.jpg" | absolute_url }})
+![Photo aérienne de champs]({{ "/assets/images/articles/surface.jpg" | absolute_url }})
 
 Voici une analyse détaillée et sourcée de la **surface nécessaire selon les types d’agriculture**, en comparant les systèmes basés sur les produits animaux (élevage) et les systèmes végétaux (végétaliens, céréaliers, etc.), ainsi que les modèles mixtes (polyculture-élevage).
 

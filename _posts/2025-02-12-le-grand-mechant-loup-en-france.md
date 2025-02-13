@@ -4,7 +4,7 @@ title: Le grand méchant loup en France
 date: 2025-02-12 19:45 +0000
 ---
 
-![Photo d'un loup]({{ "/assets/loup.jpg" | absolute_url }})
+![Photo d'un loup]({{ "/assets/images/articles/loup.jpg" | absolute_url }})
 
 La réintroduction du loup qui menace les éleveurs pratiquant le patoralsime traditionnel est une préoccupation légitime. Toutefois elle mérite d’être nuancée à la lumière de l’histoire du loup en France, de son rôle dans la biodiversité et des exemples de coexistence réussie ailleurs dans le monde. Cet article explore ces aspects pour offrir une perspective équilibrée, en s’appuyant sur des sources scientifiques et institutionnelles.
 

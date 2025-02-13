@@ -4,7 +4,7 @@ title: Est-ce que le véganisme est écologique ?
 date: 2025-02-10 21:26 +0000
 ---
 
-![Image de la Terre dans des mains humaines]({{ "/assets/ecologique.jpg" | absolute_url }})
+![Image de la Terre dans des mains humaines]({{ "/assets/images/articles/ecologique.jpg" | absolute_url }})
 
 Le véganisme est généralement considéré comme plus écologique qu’un régime alimentaire incluant des produits animaux, mais la réponse est nuancée et dépend de plusieurs facteurs. Voici une analyse détaillée :
 

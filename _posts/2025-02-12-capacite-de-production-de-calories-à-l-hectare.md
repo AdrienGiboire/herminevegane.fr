@@ -4,7 +4,7 @@ title: Capacité de production de calories à l'hectare
 date: 2025-02-12 21:53 +0000
 ---
 
-![Photo d'un champ de blé vert]({{ "/assets/production.jpg" | absolute_url }})
+![Photo d'un champ de blé vert]({{ "/assets/images/articles/production.jpg" | absolute_url }})
 
 Voici une analyse de la **capacité de production de calories à l’hectare** selon les types d’agriculture, en comparant les systèmes végétaux, mixtes et animaux.
 
